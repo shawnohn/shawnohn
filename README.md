@@ -1,4 +1,4 @@
-### Full-Stack Developer / Unity Game Developer
+### Full Stack Developer / Unity Game Developer
 
 <!--
 **shawnohn/shawnohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
