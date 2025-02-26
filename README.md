@@ -2,14 +2,15 @@
 
 #### I'm a Full-Stack Engineer from 🇰🇷 Korea, living in 🇨🇦 Toronto, Canada.
 
-I do Full-Stack Development at [Strata Research](https://www.strataresearch.ca/);<br>
+I do Full-Stack Development at [Strata Research](https://www.strataresearch.ca/)
 
 ###
 
 <h2 align="left">🛠️ Tech stack</h2>
 
 ###
-<h3 align="left">Language</h2>
+
+<h3 align="left">Languages</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -64,6 +65,7 @@ I do Full-Stack Development at [Strata Research](https://www.strataresearch.ca/)
 <h3 align="left">DevOps & Cloud</h2>
 <div align="left">
   <img src="https://i.pinimg.com/originals/d4/74/7c/d4747cb7dcbecb5223b83355ea97a3be.png" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="30" alt="azuredevops logo"  />
   <img width="12" />
@@ -73,6 +75,7 @@ I do Full-Stack Development at [Strata Research](https://www.strataresearch.ca/)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="jenkins logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
 </div>
