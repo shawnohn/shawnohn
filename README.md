@@ -1,22 +1,11 @@
-### Software Developer / Game Developer
+### Hello there 👋
 
-<!--
-**shawnohn/shawnohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack Engineer by day ☼ and a Laravel Community Contributor by night ☾
 
-Here are some ideas to get you started:
+Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
+Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-👨🏻‍💻 [Personal Website](https://www.shawnohn.com)
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswaggerong&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
