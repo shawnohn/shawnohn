@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I'm a Full-Stack Engineer from 🇰🇷 Korea, living in 🇨🇦 Toronto, Canada.
+#### I'm a Software Engineer, Full-Stack Developer from 🇰🇷 Korea, living in 🇨🇦 Toronto, Canada.
 
 I do Full-Stack Development at [Strata Research](https://www.strataresearch.ca/)
 
