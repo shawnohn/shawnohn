@@ -41,7 +41,7 @@ I do Full-Stack Development at [Strata Research](https://www.strataresearch.ca/)
   <img src="https://cdn.simpleicons.org/awsamplify" height="30" alt="awsamplify logo" />
   <img src="https://cdn.simpleicons.org/amazonec2" height="30" alt="amazonec2 logo" />
   <img src="https://cdn.simpleicons.org/amazons3" height="30" alt="amazons3 logo" />
-  <img src="https://cdn.simpleicons.org/rabbitmq" height="30" alt="rabbitmq logo" />
+  <img src="https://cdn.simpleicons.org/rabbitmq?viewbox=auto" height="30" alt="rabbitmq logo" />
   <img src="https://cdn.simpleicons.org/apacheairflow" height="30" alt="apacheairflow logo" />
 </div>
 
